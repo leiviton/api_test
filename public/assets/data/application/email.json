@@ -1,0 +1,293 @@
+{
+  "Email": [
+    [
+      {
+        "emailId": 1,
+        "name": "Tonny Momery",
+        "image": "../../../assets/images/portrait/small/avatar-s-1.png",
+        "time": "4.14 AM",
+        "title": "PixInvent, I fount you...",
+        "message": "I would be good.",
+        "badge": "Family",
+        "badgeClass": "danger",
+        "iconClass": "blue-grey lighten-3",
+        "Emailhistory": "emailArray.EmailHistory[0]",
+        "Emailreplay": "emailArray.EmailReplay[0]"
+      }
+    ],
+  [
+      {
+        "emailId": 2,
+        "name": "Louis Wellchay",
+        "image": "../../../assets/images/portrait/small/avatar-s-2.png",
+        "time": "2.15 AM",
+        "title": "Thanks, Lets do it.",
+        "message": "Can we connect today...",
+        "badge": "",
+        "badgeClass": "",
+        "iconClass": "warning",
+        "Emailhistory": "emailArray.EmailHistory[1]",
+        "Emailreplay": "emailArray.EmailReplay[1]"
+      }
+    ],
+    [
+      {
+        "emailId":3,
+        "name":"Saraha Deepal",
+        "image":"../../../assets/images/portrait/small/avatar-s-3.png",
+        "time":"11.14 AM",
+        "title":"You have new comment",
+        "message":"Hi, Pixivent lets...",
+        "badge":"Work",
+        "badgeClass":"warning",
+        "iconClass":"blue-grey lighten-3",
+        "Emailhistory":"emailArray.EmailHistory[2]",
+        "Emailreplay":"emailArray.EmailReplay[2]"
+  }
+  ],
+  [
+    {
+      "emailId":4,
+      "name":"Healther Howel",
+      "image":"../../../assets/images/portrait/small/avatar-s-4.png",
+      "time":"Today",
+      "title":"Project ABC Stauts ",
+      "message":"Hi! Louis Wellchy,.",
+      "badge":"Private",
+      "badgeClass":"success",
+      "iconClass":"blue-grey lighten-3",
+      "Emailhistory":"emailArray.EmailHistory[3]",
+      "Emailreplay":"emailArray.EmailReplay[3]"
+}
+],
+[
+{
+  "emailId":5,
+  "name":"Kellya Nelason",
+  "image":"../../../assets/images/portrait/small/avatar-s-5.png",
+  "time":"24 Feb",
+  "title":"Your new UI ",
+  "message":"Everything looks good",
+  "badge":"",
+  "badgeClass":"",
+  "iconClass":"blue-grey lighten-3",
+  "Emailhistory":"emailArray.EmailHistory[4]",
+  "Emailreplay":"emailArray.EmailReplay[4]"
+}
+],
+[
+{
+  "emailId":6,
+  "name":"Healther Howel",
+  "image":"../../../assets/images/portrait/small/avatar-s-6.png",
+  "time":"15 March",
+  "title":"Where are you John?",
+  "message":"We can party to night",
+  "badge":"",
+  "badgeClass":"",
+  "iconClass":"blue-grey lighten-3",
+  "Emailhistory":"emailArray.EmailHistory[5]",
+  "Emailreplay":"emailArray.EmailReplay[5]"
+}
+],
+[
+  {
+    "emailId":7,
+    "name":"Healther Howel",
+    "image":"../../../assets/images/portrait/small/avatar-s-7.png",
+    "time":"5 Jan",
+    "title":"Will connect you",
+    "message":"Hi Kelly!",
+    "badge":"Friends",
+    "badgeClass":"primary",
+    "iconClass":"blue-grey lighten-3",
+    "Emailhistory":"emailArray.EmailHistory[6]",
+    "Emailreplay":"emailArray.EmailReplay[6]"
+  }
+  ],
+  [
+    {
+      "emailId":8,
+      "name":"Healther Howel",
+      "image":"../../../assets/images/portrait/small/avatar-s-8.png",
+      "time":"15 March",
+      "title":"Who you are?",
+      "message":"I would be good.",
+      "badge":"",
+      "badgeClass":"",
+      "iconClass":"blue-grey lighten-3",
+      "Emailhistory":"emailArray.EmailHistory[7]",
+      "Emailreplay":"emailArray.EmailReplay[7]"
+    }
+    ],
+    [
+      {
+        "emailId":9,
+        "name":"Vincent Nelson",
+        "image":"../../../assets/images/portrait/small/avatar-s-9.png",
+        "time":"8:23 AM",
+        "title":"Okey",
+        "message":"We can party to night",
+        "badge":"",
+        "badgeClass":"",
+        "iconClass":"blue-grey lighten-3",
+        "Emailhistory":"emailArray.EmailHistory[8]",
+        "Emailreplay":"emailArray.EmailReplay[8]"
+      }
+      ]
+  ],
+  "EmailHistory": [
+    [
+      {
+        "username": "Tonny Deep",
+        "image": "../../../assets/images/portrait/small/avatar-s-1.png",
+        "date": " 12 July",
+        "title": "Can you please provide me ABC Stauts report ",
+        "message": "Hi Wayne",
+        "descrition": "Can you please provide me ABC Status Report.Gmail Material Design Concept.Please check the full project on Behance. Hope that will be fine for you.",
+        "sender": "Regards,Jhon",
+        "badge": "Previous",
+        "badgeClass": "primary",
+        "iconClass" :"blue-grey lighten-3"
+      }
+    ],
+    [
+      {
+        "username": "Louis Welch",
+        "image": "../../../assets/images/portrait/small/avatar-s-2.png",
+        "date": " Today",
+        "title": "Can you please provide me ABC Stauts report ",
+        "message": "Hi Wayne",
+        "descrition": "Can you please provide me ABC Status Report.Gmail Material Design Concept.Please check the full project on Behance. Hope that will be fine for you.",
+        "sender": "Regards,Louis",
+        "badge": "Previous",
+        "badgeClass": "primary",
+        "iconClass" :"warning"
+      }
+    ],
+    [
+      {
+        "username": "Envato Market",
+        "image": "../../../assets/images/portrait/small/avatar-s-3.png",
+        "date": " Today",
+        "title": "Can you please provide me ABC Stauts report ",
+        "message": "Hi Wayne",
+        "descrition": "Ut varius purus ut mi consectetur, sed hendrerit nisi facilisis.Sed vitae neque vitae urna mattis condimentum. Suspendisse eu blandit enim, sed semper quam. Vivamus sed convallis ex",
+        "sender": "Regards,Saraha",
+        "badge": "Previous",
+        "badgeClass": "primary",
+        "iconClass" :"blue-grey lighten-3"
+      }
+    ],
+    [
+      {
+        "username": "Healther Howel",
+        "image": "../../../assets/images/portrait/small/avatar-s-4.png",
+        "date": " Today",
+        "title": "Can you please provide me ABC Stauts report ",
+        "message": "Hi Wayne",
+        "descrition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna quam, rhoncus vitae lacinia vitae, gravida eleifend urna.Sed mattis posuere urna, iaculis ornare mi ultrices rhoncus. Phasellus elementum suscipit ante eu consectetur",
+        "sender": "Regards,Healther",
+        "badge": "Previous",
+        "badgeClass": "primary",
+        "iconClass" :"blue-grey lighten-3"
+      }
+    ],
+    [
+      {
+        "username": "Kellya Nelason",
+        "image": "../../../assets/images/portrait/small/avatar-s-5.png",
+        "date": " Today",
+        "title": "Can you please provide me ABC Stauts report ",
+        "message": "Hi Wayne",
+        "descrition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna quam, rhoncus vitae lacinia vitae, gravida eleifend urna.Sed mattis posuere urna, iaculis ornare mi ultrices rhoncus. Phasellus elementum suscipit ante eu consectetur",
+        "sender": "Regards,Kellya",
+        "badge": "Previous",
+        "badgeClass": "primary",
+        "iconClass" :"blue-grey lighten-3"
+      }
+    ],
+    [
+      {
+        "username": "Vincent rews",
+        "image": "../../../assets/images/portrait/small/avatar-s-6.png",
+        "date": " Today",
+        "title": "Can you please provide me ABC Stauts report ",
+        "message": "Hi Wayne",
+        "descrition": "Curabitur a euismod dui. Vivamus ut luctus nisl. In tincidunt tellus vel lobortis hendrerit. Quisque odio tortor, accumsan vel hendrerit in, volutpat nec mi. Nulla imperdiet, nunc quis dictum dignissim, dolor ligula ultrices diam, non tristique magna ipsum ac metus Suspendisse vitae pharetra eros. Proin eu elit et diam ultricies efficitur.",
+        "sender": "Regards,Vincent",
+        "badge": "Previous",
+        "badgeClass": "primary",
+        "iconClass" :"blue-grey lighten-3"
+      }
+    ]
+  ],
+  "EmailReplay": [
+    [
+     {
+        "username": "Heather Howell",
+        "image": "../../../assets/images/portrait/small/avatar-s-7.png",
+        "date": "",
+        "title":" 22 Aug ",
+        "message": "Hi Tonny",
+        "descrition": "Thanks for your feedback ! Here`s a new layout for a new Modern Admin theme.We will start the new application development soon once this will be completed,I will provide you more details after this Saturday. Hope that will be fine for you.",
+        "sender": "Heather"
+      }
+    ],
+    [
+      {
+        "username": "Kelly Relson",
+        "image": "../../../assets/images/portrait/small/avatar-s-8.png",
+        "date": "",
+        "title": " 7 Feb ",
+        "message":"Hi Heather",
+        "descrition": "suspendisse vitae pharetra eros. Proin eu elit et diam ultricies efficitur. Ut sagittis dictum metus, dapibus faucibus risus facilisis sed.Vivamus scelerisque arcu vel dolor aliquet, vitae molestie risus dignissim.Donec id odio interdum, ornare nisl ac, mattis sem. Curabitur id magna nunc",
+        "sender": "Kelly"
+      }
+    ],
+    [
+      {
+        "username": "Vincent Nelson",
+        "image": "../../../assets/images/portrait/small/avatar-s-9.png",
+        "date":"",
+        "title":  " 9 June ",
+        "message":"Hi Tonny",
+        "descrition": "Ut varius purus ut mi consectetur, sed hendrerit nisi facilisis. Sed vitae neque vitae urna mattis condimentum. Suspendisse eu blandit enim, sed semper quam. Vivamus sed convallis ex",
+        "sender": "Vincent"
+      }
+    ],
+    [
+      {
+        "username": "Louis Wellchy",
+        "image": "../../../assets/images/portrait/small/avatar-s-2.png",
+        "date": "",
+        "title": " 21 Apr ",
+        "message":"Hi Tonny",
+        "descrition": "Thanks for your feedback ! Here`s a new layout for a new Modern Admin theme.We will start the new application development soon once this will be completed,I will provide you more details after this Saturday. Hope that will be fine for you.",
+        "sender": "Louis"
+      }
+    ],
+    [
+      {
+        "username": "Louis Wellchy",
+        "image": "../../../assets/images/portrait/small/avatar-s-2.png",
+        "date": "",
+        "title": " 22 Aug ",
+        "message":"Hi Tonny",
+        "descrition": "suspendisse vitae pharetra eros. Proin eu elit et diam ultricies efficitur.Ut sagittis dictum metus, dapibus faucibus risus facilisis sed. Vivamus scelerisque arcu vel dolor aliquet, vitae molestie risus dignissim. Donec id odio interdum, ornare nisl ac, mattis sem. Curabitur id magna nunc",
+        "sender": "Louis"
+      }
+    ],
+    [
+      {
+        "username": "Kelly Nelson",
+        "image": "../../../assets/images/portrait/small/avatar-s-5.png",
+        "date": " ",
+        "title": "22 Aug",
+        "message":"Hi Tonny",
+        "descrition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam urna quam, rhoncus vitae lacinia vitae, gravida eleifend urna. Sed mattis posuere urna, iaculis ornare mi ultrices rhoncus. Phasellus elementum suscipit ante eu consectetur",
+        "sender": "Louis"
+      }
+    ]
+  ]
+}

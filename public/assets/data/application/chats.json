@@ -1,0 +1,671 @@
+[
+  {
+    "uid": "",
+    "name": "Elizabeth Elliott",
+    "image": "../../../assets/images/portrait/small/avatar-s-3.png",
+    "time": "4:14 AM",
+    "showMessage": "Okay",
+    "badge": "",
+    "showicon": true,
+    "isicon": false,
+    "isactive": "online",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help? We're here for you!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hey John, I am looking for the best admin template.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-3.png"
+      },
+      {
+        "message": "Could you please help me to find it out?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It should be angular 8+ bootstrap compatible.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Absolutely!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Modern admin is the responsive angular 8 bootstrap admin template.",
+        "sender": 0,
+        "senderImage": ""
+      },
+      {
+        "message": "Looks clean and fresh UI.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-3.png"
+      },
+      {
+        "message": "It is perfect for my next project.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "How can I purchase it?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Thanks, from ThemeForest.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "I will purchase it for sure.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-3.png"
+      },
+      {
+        "message": "Thanks.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It's my pleasure.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Kristopher Candy",
+    "image": "../../../assets/images/portrait/small/avatar-s-7.png",
+    "time": "9:04 PM",
+    "showMessage": "Thank you",
+    "badge": "12",
+    "showicon": false,
+    "isicon": false,
+    "isactive": "busy",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help?",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hi, I spoke with a representative yesterday.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-7.png"
+      },
+      {
+        "message": "he gave me some steps to fix my problem.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "but they didn’t help.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Ok, I will help you.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Sarah Woods",
+    "image": "../../../assets/images/portrait/small/avatar-s-8.png",
+    "time": "2:14 AM",
+    "showMessage": "Hello krish!",
+    "badge": "3",
+    "showicon": false,
+    "isicon": true,
+    "isactive": "away",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help? We're here for you!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hey John, I am looking for the best admin template.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-8.png"
+      },
+      {
+        "message": "Could you please help me to find it out?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It should be angular 8 bootstrap compatible.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Absolutely!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Morden admin is the responsive angular 8+ bootstrap admin template.",
+        "sender": 0,
+        "senderImage": ""
+      },
+      {
+        "message": "Looks clean and fresh UI.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-8.png"
+      },
+      {
+        "message": "It is perfect for my next project.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "How can I purchase it?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Thanks, from ThemeForest.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "I will purchase it for sure.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-8.png"
+      },
+      {
+        "message": "Thanks.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It's my pleasure.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Wayne Burton",
+    "image": "../../../assets/images/portrait/small/avatar-s-5.png",
+    "time": "Today",
+    "showMessage": "Can we connect?",
+    "badge": "",
+    "showicon": false,
+    "isicon": false,
+    "isactive": "online",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help?",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hi, I spoke with a representative yesterday.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-5.png"
+      },
+      {
+        "message": "he gave me some steps to fix my problem.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "but they didn’t help.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Ok, I will help you.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Sarah Montgomery",
+    "image": "../../../assets/images/portrait/small/avatar-s-9.png",
+    "time": "Yesterday",
+    "showMessage": "Will connect you",
+    "badge": "",
+    "showicon": false,
+    "isicon": false,
+    "isactive": "busy",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help? We're here for you!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hey John, I am looking for the best admin template.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-9.png"
+      },
+      {
+        "message": "Could you please help me to find it out?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It should be angular 8+ bootstrap compatible.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Absolutely!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Modern admin is the responsive angular 8+ bootstrap admin template.",
+        "sender": 0,
+        "senderImage": ""
+      },
+      {
+        "message": "Looks clean and fresh UI.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-9.png"
+      },
+      {
+        "message": "It is perfect for my next project.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "How can I purchase it?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Thanks, from ThemeForest.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "I will purchase it for sure.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-9.png"
+      },
+      {
+        "message": "Thanks.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It's my pleasure.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Heather Howell",
+    "image": "../../../assets/images/portrait/small/avatar-s-4.png",
+    "time": "Friday",
+    "showMessage": "Thank you",
+    "badge": "4",
+    "showicon": false,
+    "isicon": false,
+    "isactive": "online",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help?",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hi, I spoke with a representative yesterday.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-4.png"
+      },
+      {
+        "message": "he gave me some steps to fix my problem.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "but they didn’t help.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Ok, I will help you.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Kelly Reyes",
+    "image": "../../../assets/images/portrait/small/avatar-s-14.png",
+    "time": "Thursday",
+    "showMessage": "I love you",
+    "badge": "",
+    "showicon": false,
+    "isicon": false,
+    "isactive": "busy",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help? We're here for you!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hey John, I am looking for the best admin template.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-14.png"
+      },
+      {
+        "message": "Could you please help me to find it out?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It should be angular 8+ bootstrap compatible.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Absolutely!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Modern admin is the responsive angular 8+ bootstrap admin template.",
+        "sender": 0,
+        "senderImage": ""
+      },
+      {
+        "message": "Looks clean and fresh UI.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-14.png"
+      },
+      {
+        "message": "It is perfect for my next project.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "How can I purchase it?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Thanks, from ThemeForest.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "I will purchase it for sure.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-14.png"
+      },
+      {
+        "message": "Thanks.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It's my pleasure.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Vincent Nelson",
+    "image": "../../../assets/images/portrait/small/avatar-s-3.png",
+    "time": "4:14 AM",
+    "showMessage": "Who you are?",
+    "badge": "",
+    "showicon": false,
+    "isicon": false,
+    "isactive": "online",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help?",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hi, I spoke with a representative yesterday.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-3.png"
+      },
+      {
+        "message": "he gave me some steps to fix my problem.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "but they didn’t help.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Ok, I will help you.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Elizabeth Elliott",
+    "image": "../../../assets/images/portrait/small/avatar-s-7.png",
+    "time": "9:04 PM",
+    "showMessage": "Okay",
+    "badge": "",
+    "showicon": true,
+    "isicon": false,
+    "isactive": "online",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help? We're here for you!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hey John, I am looking for the best admin template.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-7.png"
+      },
+      {
+        "message": "Could you please help me to find it out?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It should be angular 8+ bootstrap compatible.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Absolutely!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Modern admin is the responsive angular 8+ bootstrap admin template.",
+        "sender": 0,
+        "senderImage": ""
+      },
+      {
+        "message": "Looks clean and fresh UI.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-7.png"
+      },
+      {
+        "message": "It is perfect for my next project.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "How can I purchase it?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Thanks, from ThemeForest.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "I will purchase it for sure.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-7.png"
+      },
+      {
+        "message": "Thanks.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It's my pleasure.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Kristopher Candy",
+    "image": "../../../assets/images/portrait/small/avatar-s-8.png",
+    "time": "2:14 AM",
+    "showMessage": "Thank you",
+    "badge": "12",
+    "showicon": false,
+    "isicon": false,
+    "isactive": "busy",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help?",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hi, I spoke with a representative yesterday.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-8.png"
+      },
+      {
+        "message": "he gave me some steps to fix my problem.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "but they didn’t help.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Ok, I will help you.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  },
+  {
+    "uid": "",
+    "name": "Sarah Woods",
+    "image": "../../../assets/images/portrait/small/avatar-s-5.png",
+    "time": "1:10 AM",
+    "showMessage": "Let`s see.",
+    "badge": "",
+    "showicon": false,
+    "isicon": true,
+    "isactive": "away",
+    "isSelected": false,
+    "ChatHistory": [
+      {
+        "message": "How can we help? We're here for you!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Hey John, I am looking for the best admin template.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-5.png"
+      },
+      {
+        "message": "Could you please help me to find it out?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It should be angular 8+ bootstrap compatible.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Absolutely!",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "Modern admin is the responsive angular 8+ bootstrap admin template.",
+        "sender": 0,
+        "senderImage": ""
+      },
+      {
+        "message": "Looks clean and fresh UI.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-5.png"
+      },
+      {
+        "message": "It is perfect for my next project.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "How can I purchase it?",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "Thanks, from ThemeForest.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      },
+      {
+        "message": "I will purchase it for sure.",
+        "sender": 1,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-5.png"
+      },
+      {
+        "message": "Thanks.",
+        "sender": 1,
+        "senderImage": ""
+      },
+      {
+        "message": "It's my pleasure.",
+        "sender": 0,
+        "senderImage": "../../../assets/images/portrait/small/avatar-s-1.png"
+      }
+    ]
+  }
+]
