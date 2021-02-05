@@ -13,7 +13,7 @@ services:
     api-web-psp:
         build: .
         container_name: api-web-psp
-        entrypoint:  dockerize -template ./.docker/app/.env:.env -wait tcp://db-api-web-psp:3306 -timeout 40s ./.docker/entrypoint.sh
+        entrypoint:  dockerize -template ./.docker/app/.envtemplate:.envtemplate -wait tcp://db-api-web-psp:3306 -timeout 40s ./.docker/entrypoint.sh
         environment:
             - DB_HOST=db-api-web-psp
             - DB_PORT=3306
