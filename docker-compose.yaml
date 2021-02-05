@@ -3,7 +3,7 @@ services:
     api-testpax-web:
         build: .
         container_name: api-testpax-web
-        entrypoint:  dockerize -template ./.docker/app/.env:.env -wait tcp://db-api-testpax-web:3306 -timeout 40s ./.docker/entrypoint.sh
+        entrypoint:  dockerize -template ./.docker/app/.env.template:.env -wait tcp://db-api-testpax-web:3306 -timeout 40s ./.docker/entrypoint.sh
         environment:
             - DB_HOST=db-api-testpax-web
             - DB_PORT=3306
